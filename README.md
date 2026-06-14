@@ -78,8 +78,8 @@ I am an engineering-first developer specializing in **high-performance systems**
       <img src="https://img.shields.io/badge/Stack-Java%20%7C%20SQL-orange?style=flat-square&logo=openjdk" alt="Stack" />
     </td>
     <td width="50%" valign="top">
-      <h5>🛠️ Under the Hood</h5>
-      <p>Looking for low-level systems? See my eBPF, network anomaly detection, and stream cipher cryptography prototypes linked directly in my pinned repositories.</p>
+      <h5>⚙️ Cloud & Automation</h5>
+      <p>Interested in scalable systems? Explore my production-grade Infrastructure-as-Code blueprints, elastic cloud networks, and secure DevSecOps pipelines linked in my pinned repositories.</p>
     </td>
   </tr>
 </table>
