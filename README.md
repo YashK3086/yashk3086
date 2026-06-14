@@ -86,19 +86,10 @@ I am an engineering-first developer specializing in **high-performance systems**
 
 ---
 
-### 📊 GitHub Metrics & Insights
+### 📊 Language Insights
 
 <div align="center">
-  <table border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YashK3086&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashK3086&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashK3086&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
 </div>
 
 ---
