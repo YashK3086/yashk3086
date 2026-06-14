@@ -56,21 +56,49 @@ I am an engineering-first developer specializing in **high-performance systems**
 
 ---
 
+### 📂 Featured Repositories
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h5>🌐 <a href="https://github.com/YashK3086/blue-green">blue-green</a></h5>
+      <p>Continuous Deployment pipeline demonstrating zero-downtime updates using a Blue-Green deployment strategy. Configured with automated traffic switching and health-check rollbacks.</p>
+      <img src="https://img.shields.io/badge/DevOps-Active-success?style=flat-square" alt="DevOps Active" />
+    </td>
+    <td width="50%" valign="top">
+      <h5>🎵 <a href="https://github.com/YashK3086/FullStack-Music-App">FullStack-Music-App</a></h5>
+      <p>A full-stack, responsive audio streaming platform. Architected with optimized client-side state management and secure server endpoints for dynamic media streaming.</p>
+      <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20React-blue?style=flat-square&logo=typescript" alt="Stack" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h5>🚪 <a href="https://github.com/YashK3086/Visitor-Gate-Pass-Management-">Visitor-Gate-Pass-Management</a></h5>
+      <p>Enterprise visitor tracking system implementing role-based access controls, session security, and structured auditing logs to maintain high-security standards.</p>
+      <img src="https://img.shields.io/badge/Stack-Java%20%7C%20SQL-orange?style=flat-square&logo=openjdk" alt="Stack" />
+    </td>
+    <td width="50%" valign="top">
+      <h5>🛠️ Under the Hood</h5>
+      <p>Looking for low-level systems? See my eBPF, network anomaly detection, and stream cipher cryptography prototypes linked directly in my pinned repositories.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 📊 GitHub Metrics & Insights
 
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YashK3086&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=YashK3086&show_icons=true&theme=radical&hide_border=true&hide_title=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashK3086&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashK3086&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
       </td>
     </tr>
   </table>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashK3086&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
