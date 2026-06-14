@@ -61,23 +61,30 @@ I am an engineering-first developer specializing in **high-performance systems**
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h5>💿 <a href="https://github.com/YashK3086/vinyl-vault">vinyl-vault</a></h5>
+      <p>An interactive, procedurally audio-synthesized digital vinyl room serving as my primary engineering portfolio. Features custom Web Audio API node synthesis and dynamic GitHub repository mapping.</p>
+      <img src="https://img.shields.io/badge/Stack-Next.js%20%7C%20Tailwind%204-blue?style=flat-square&logo=next.js" alt="Stack" />
+    </td>
+    <td width="50%" valign="top">
       <h5>🌐 <a href="https://github.com/YashK3086/blue-green">blue-green</a></h5>
       <p>Continuous Deployment pipeline demonstrating zero-downtime updates using a Blue-Green deployment strategy. Configured with automated traffic switching and health-check rollbacks.</p>
       <img src="https://img.shields.io/badge/DevOps-Active-success?style=flat-square" alt="DevOps Active" />
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h5>🎵 <a href="https://github.com/YashK3086/FullStack-Music-App">FullStack-Music-App</a></h5>
       <p>A full-stack, responsive audio streaming platform. Architected with optimized client-side state management and secure server endpoints for dynamic media streaming.</p>
       <img src="https://img.shields.io/badge/Stack-TypeScript%20%7C%20React-blue?style=flat-square&logo=typescript" alt="Stack" />
     </td>
-  </tr>
-  <tr>
     <td width="50%" valign="top">
       <h5>🚪 <a href="https://github.com/YashK3086/Visitor-Gate-Pass-Management-">Visitor-Gate-Pass-Management</a></h5>
       <p>Enterprise visitor tracking system implementing role-based access controls, session security, and structured auditing logs to maintain high-security standards.</p>
       <img src="https://img.shields.io/badge/Stack-Java%20%7C%20SQL-orange?style=flat-square&logo=openjdk" alt="Stack" />
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h5>⚙️ Cloud & Automation</h5>
       <p>Interested in scalable systems? Explore my production-grade Infrastructure-as-Code blueprints, elastic cloud networks, and secure DevSecOps pipelines linked in my pinned repositories.</p>
     </td>
