@@ -2,18 +2,18 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FEF7&vCenter=true&width=600&lines=Principal+Systems+%26+DevOps+Engineer;High-Speed+Packet+Processing+(eBPF%2FXDP);Embedded+Cryptography+%26+IoT+Security;MLOps+%26+Real-time+Network+Anomaly+Detection" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A9FEF7&vCenter=true&width=600&lines=Principal+Cloud+%26+DevOps+Engineer;Automated+CI/CD+%26+DevSecOps+Compliance;Hybrid+Cloud+Infrastructure+(AWS%2FEKS);High-Availability+Microservices+Routing" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
 ### 🚀 About Me
-I am an engineering-first developer specializing in **high-performance systems**, **network security**, and **real-time data pipelines**. My core expertise lies at the intersection of low-level networking (eBPF/XDP), cryptography, and distributed system architectures. I build robust, secure, and highly scalable infrastructures that handle gigabits of throughput and automate continuous integration with strict DevSecOps compliance.
+I am a DevOps and Cloud Engineer specializing in **high-availability infrastructure orchestration**, **automated CI/CD pipelines**, and **DevSecOps compliance**. My core expertise lies in designing scalable cloud architectures, securing containerized environments, and optimizing network delivery pipelines. I build secure, self-healing, and highly automated environments that integrate static and dynamic security analysis directly into continuous integration workflows.
 
-* 🛡️ **Network Security**: Implementing custom kernel-level eBPF packet filters and stream cipher cryptographic protocols for low-latency IoT devices.
-* ⚡ **Systems Engineering**: Fine-tuning Linux network stacks, memory-efficient C/C++/Rust applications, and zero-copy data transmission.
-* 📊 **Data Engineering & ML**: Designing real-time stream processing pipelines and machine learning classifiers for network anomaly detection.
+* ☁️ **Cloud Infrastructure & Orchestration**: Architecting scalable, multi-tenant environments on AWS using Kubernetes (EKS), Terraform (IaC), and ArgoCD GitOps pipelines.
+* 🛡️ **DevSecOps & Security Automation**: Implementing robust security gates, container vulnerability scanning (Trivy, SonarQube), and DAST scanning (OWASP ZAP) into build pipelines.
+* 🌐 **Networking & Performance**: Configuring load balancing, VPC networks, and high-availability traffic patterns (such as Blue-Green deployment models).
 
 ---
 
@@ -103,6 +103,6 @@ I am an engineering-first developer specializing in **high-performance systems**
 
 ### 🛡️ Core Initiatives
 
-*   💻 **High-Performance Packet Filtering**: Harnessing eBPF/XDP for zero-copy packet interception and drop mechanisms at the NIC driver level.
-*   🔐 **Low-Power Cryptographic Systems**: Porting stream ciphers to resource-constrained IoT architectures for end-to-end payload security.
-*   🧠 **Intelligent Network Defenses**: Feeding network telemetry streams into real-time anomaly detection pipelines utilizing supervised and unsupervised models.
+*   🏗️ **Infrastructure as Code & GitOps**: Automating multi-region cloud provisioning and container orchestration using Terraform, Helm, and ArgoCD.
+*   🔐 **Automated Security Pipelines**: Implementing end-to-end security gates that automatically block insecure deployments on critical vulnerabilities.
+*   🧠 **Intelligent Network Defenses**: Monitoring and telemetry collection using Prometheus, Grafana, and Alertmanager for active performance alerts.
