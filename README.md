@@ -91,7 +91,7 @@ I am a DevOps and Cloud Engineer specializing in **high-availability infrastruct
 </table>
 ---
 
----
+
 ### 🛡️ Core Initiatives
 
 *   🏗️ **Infrastructure as Code & GitOps**: Automating multi-region cloud provisioning and container orchestration using Terraform, Helm, and ArgoCD.
