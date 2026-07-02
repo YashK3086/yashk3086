@@ -89,10 +89,6 @@ I am a DevOps and Cloud Engineer specializing in **high-availability infrastruct
     </td>
   </tr>
 </table>
-
----
-
-
 ---
 
 ### 🛡️ Core Initiatives
