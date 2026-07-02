@@ -92,11 +92,6 @@ I am a DevOps and Cloud Engineer specializing in **high-availability infrastruct
 
 ---
 
-### 📊 Language Insights
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashK3086&layout=compact&theme=radical&hide_border=true&hide_title=true" alt="Top Languages" />
-</div>
 
 ---
 
